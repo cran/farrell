@@ -1,7 +1,7 @@
 Package: farrell
 Type: Package
 Title: Interactive Interface to Data Envelopment Analysis Modeling
-Version: 0.1.0
+Version: 0.2.0
 Author: Mohamed El Fodil Ihaddaden
 Maintainer: Mohamed El Fodil Ihaddaden <ihaddaden.fodeil@gmail.com>
 Description: Allows the user to execute interactively radial data envelopment analysis models. The user has the ability to upload a data frame, 
@@ -21,6 +21,6 @@ BugReports: https://github.com/feddelegrand7/farrell/issues
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-05-26 11:06:17 UTC; THINKPAD L390
+Packaged: 2020-06-02 22:09:40 UTC; THINKPAD L390
 Repository: CRAN
-Date/Publication: 2020-06-02 09:40:06 UTC
+Date/Publication: 2020-06-03 05:20:14 UTC
