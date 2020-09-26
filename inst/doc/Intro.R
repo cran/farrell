@@ -5,7 +5,10 @@ knitr::opts_chunk$set(
 )
 
 ## ---- eval = FALSE------------------------------------------------------------
-#  remotes::install_github("feddelegrand7/farrell")
+#  
+#  install.packages("farrell")
+#  
+#  
 
 ## ---- eval=FALSE--------------------------------------------------------------
 #  library(farrell)

@@ -5,6 +5,21 @@
 
 <!-- badges: start -->
 
+<!-- [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/farrell)](https://cran.r-project.org/package=farrell) -->
+
+<!-- [![CRAN_time_from_release](https://www.r-pkg.org/badges/ago/farrell)](https://cran.r-project.org/package=farrell) -->
+
+<!-- [![CRAN_latest_release_date](https://www.r-pkg.org/badges/last-release/farrell)](https://cran.r-project.org/package=farrell) -->
+
+<!-- [![metacran downloads](https://cranlogs.r-pkg.org/badges/farrell)](https://cran.r-project.org/package=farrell) -->
+
+<!-- [![metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/farrell)](https://cran.r-project.org/package=farrell) -->
+
+[![Travis build
+status](https://travis-ci.com/feddelegrand7/farrell.svg?branch=master)](https://travis-ci.com/feddelegrand7/farrell)
+[![R
+badge](https://img.shields.io/badge/Build%20with-♥%20and%20R-blue)](https://github.com/feddelegrand7/farrell)
+
 <!-- badges: end -->
 
 The goal of farrell is to provide an interactive interface to Data
@@ -13,9 +28,12 @@ Envelopment Analysis modeling in R. The farrell package is built upon
 
 ## Installation
 
-You can install the development version of farrell with:
+You can install the development version of `farrell` from Github with:
 
 ``` r
+
+# install.packages("remotes")
+
 remotes::install_github("feddelegrand7/farrell")
 ```
 
@@ -100,15 +118,15 @@ If you use the farrell package in your publications or teaching
 activities, please cite it as follows:
 
 Mohamed El Fodil Ihaddaden (2020). farrell: Interactive Interface to
-Data Envelopment Analysis Modeling. R package version 0.1.0.
-<https://github.com/feddelegrand7/farrell>
+Data Envelopment Analysis Modeling based on the Benchmarking R package.
+R package version 0.2.0. <https://github.com/feddelegrand7/farrell>
 
 A BibTeX entry for LaTeX users is
 
 @Manual{, title = {farrell: Interactive Interface to Data Envelopment
-Analysis Modeling}, author = {Mohamed El Fodil Ihaddaden}, note = {R
-package version 0.1.0}, url =
-{<https://github.com/feddelegrand7/farrell>}, }
+Analysis Modeling based on the Benchmarking R package}, author =
+{Mohamed El Fodil Ihaddaden}, note = {R package version 0.2.0},
+year={2020}, url = {<https://github.com/feddelegrand7/farrell>}, }
 
 ## Code of Conduct
 
